@@ -22,6 +22,7 @@ int main(){
 	
 }
 
+//en esta funcion hacemos el algoritmo para sacar el maximo de ambos numeros
 int maximo (int a, int b){ //pase de parametros: x = a  e  y = b
 
 	int aux;
